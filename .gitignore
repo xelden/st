@@ -1,0 +1,6 @@
+st
+*.def.h
+*.o
+*.orig
+*.rej
+patches
